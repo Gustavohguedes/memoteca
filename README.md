@@ -14,14 +14,63 @@ Run `ng generate component component-name` to generate a new component. You can 
 
 Run `ng build` to build the project. The build artifacts will be stored in the `dist/` directory.
 
-## Running unit tests
+# 🧠 Memoteca
 
-Run `ng test` to execute the unit tests via [Karma](https://karma-runner.github.io).
+Memoteca é uma aplicação desenvolvida com Angular com o objetivo de gerir pensamentos, frases marcantes e citações de filmes, séries ou jogos. Foi criada como um projeto pessoal para aprofundar meus conhecimentos no ecossistema Angular, utilizando boas práticas, uma estrutura modular e um backend simulado com `json-server`.
 
-## Running end-to-end tests
+---
 
-Run `ng e2e` to execute the end-to-end tests via a platform of your choice. To use this command, you need to first add a package that implements end-to-end testing capabilities.
+## 🚀 Tecnologias utilizadas
 
-## Further help
+- **Angular 14**
+- **Bootstrap 5** – Estilização e responsividade
+- **Node.js v16**
+- **json-server** – Simulação de API REST para persistência local de dados
 
-To get more help on the Angular CLI use `ng help` or go check out the [Angular CLI Overview and Command Reference](https://angular.io/cli) page.
+---
+
+## 📌 Funcionalidades
+
+- ✅ Criação de novas citações (CRUD completo)
+- ✅ Edição de pensamentos existentes
+- ✅ Exclusão de registros
+- ✅ Visualização de todas as citações cadastradas
+- ✅ Navegação entre páginas com roteamento Angular
+
+---
+
+## 🎯 Objetivo do projeto
+
+O propósito deste projeto é colocar em prática os conhecimentos adquiridos em Angular, incluindo:
+
+- Organização de uma estrutura escalável de projeto
+- Componentização e reutilização de código
+- Serviços e injeção de dependência
+- Manipulação de rotas e formulários reativos
+- Comunicação com APIs simuladas via `json-server`
+
+---
+
+## ▶️ Como executar o projeto
+
+## 🌎 Acesse a aplicação em: http://localhost:4200
+
+### 1. Clonar o repositório
+
+```bash
+git clone https://github.com/seu-usuario/memoteca.git
+cd memoteca
+
+
+```bash
+npm install
+
+
+```bash
+npx json-server --watch db.json
+
+
+```bash
+ng serve
+
+
