@@ -62,15 +62,15 @@ git clone https://github.com/seu-usuario/memoteca.git
 cd memoteca
 
 
-```bash
+Instalar as dependencias
 npm install
 
 
-```bash
+Rodar o banco de dados local
 npx json-server --watch db.json
 
 
-```bash
+Iniciar a aplicação do front-end
 ng serve
 
 
