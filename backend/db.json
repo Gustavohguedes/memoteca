@@ -1,0 +1,28 @@
+{
+  "pensamentos": [
+    {
+      "id": 1,
+      "conteudo": "Quando você joga o jogo dos tronos, você ganha ou morre.",
+      "autoria": "Game of Thrones Cersei Lannister",
+      "modelo": "modelo2"
+    },
+    {
+      "id": 2,
+      "conteudo": "Sim, o passado pode machucar. Mas, do modo como vejo, você pode fugir dele ou aprender com ele.",
+      "autoria": "O Rei Leão - Rafiki",
+      "modelo": "modelo2"
+    },
+    {
+      "id": 3,
+      "conteudo": "Você claramente não tem noção de com quem está falando, então deixe eu explicar. Eu não estou em perigo, Skyler. Eu sou o perigo. Um cara abre sua porta e leva um tiro e você pensa que sou eu? Não! Sou eu quem bate na porta.",
+      "autoria": "Breaking Bad - Walter White",
+      "modelo": "modelo3"
+    },
+    {
+      "conteudo": "Tudo que podemos fazer é decidir oque podemos fazer com o tempo que nos é dado",
+      "autoria": "Senhor Dos Aneis - Gandalf o Branco",
+      "modelo": "modelo3",
+      "id": 5
+    }
+  ]
+}
